@@ -2,6 +2,15 @@
 
 This repository contains all the notebooks to collect, process and create graph for bibliometrics based on HAL API.
 
+include::./reports/README.adoc[]
+
+== Run it
+
+=== Using Docker
+
+* Launch the command : `docker-compose up`
+* Open your browser at : http://127.0.0.1:8888/lab/tree/work/
+
 == Authors
 
 * https://twitter.com/hba_collin[Amélie Collin]
@@ -9,5 +18,5 @@ This repository contains all the notebooks to collect, process and create graph 
 
 == License
 
-
+link:./LICENSE[MIT License]
 
