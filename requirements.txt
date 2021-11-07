@@ -1,0 +1,6 @@
+requests
+jupyter
+tabulate
+pandas
+Unidecode
+openpyxl

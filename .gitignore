@@ -1,0 +1,9 @@
+# Generated files 
+/reports/.cache
+/reports/.ipython
+/reports/.jupyter
+/reports/.local
+.ipynb_checkpoints/
+
+# Exports folders
+exports/*

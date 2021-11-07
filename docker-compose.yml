@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  jupyter:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - published: 8888
+        target: 8888
+    environment:
+      JUPYTER_ENABLE_LAB: 'yes'
+    volumes:
+      - source: ./reports
+        target: /home/jovyan/
+        type: bind
