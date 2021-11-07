@@ -1,0 +1,13 @@
+= Bibliometrics CES
+
+This repository contains all the notebooks to collect, process and create graph for bibliometrics based on HAL API.
+
+== Authors
+
+* https://twitter.com/hba_collin[Amélie Collin]
+* https://twitter.com/Pat0uche[Patrick Allain]
+
+== License
+
+
+
