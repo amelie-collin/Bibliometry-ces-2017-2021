@@ -3,7 +3,9 @@
 /reports/.ipython
 /reports/.jupyter
 /reports/.local
+/reports/.config
 .ipynb_checkpoints/
 
 # Exports folders
-exports/*
+**/exports/*
+!**/exports/.gitkeep
