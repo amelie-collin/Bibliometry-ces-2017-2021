@@ -2,7 +2,19 @@
 
 This repository contains all the notebooks to collect, process and create graph for bibliometrics based on HAL API.
 
-include::./reports/README.adoc[]
+== Reports
+
+=== Mid term reports 2021
+
+From 2017-01-01 to 2021-05-31 : link:http://127.0.0.1:8888/lab/tree/2021-mid-term-report/[./2021-mid-term-report]
+
+* Extracting data :  link:http://127.0.0.1:8888/lab/tree/2021-mid-term-report/extract-data-to-json.ipynb[./2021-mid-term-report/extract-data-to-json.ipynb]
+* Process report : link:http://127.0.0.1:8888/lab/tree/2021-mid-term-report/process-report.ipynb[./2021-mid-term-report/process-report.ipynb]
+
+=== IRD 2021-2022
+
+* Extracting data :  link:http://127.0.0.1:8888/lab/tree/ird-2021-2022/extract-data-to-json.ipynb[./ird-2021-2022/extract-data-to-json.ipynb]
+* Process report : link:http://127.0.0.1:8888/lab/tree/ird-2021-2022/process-report.ipynb[./ird-2021-2022/process-report.ipynb]
 
 == Run it
 

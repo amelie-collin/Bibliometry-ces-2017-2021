@@ -1,5 +1,0 @@
-== Reports
-
-* Mid term reports 2021 (from 2017-01-01 to 2021-05-31) : link:http://127.0.0.1:8888/lab/tree/2021-mid-term-report/[./2021-mid-term-report]
-** Extract data :  link:http://127.0.0.1:8888/lab/tree/2021-mid-term-report/extract-data-to-json.ipynb[./2021-mid-term-report/extract-data-to-json.ipynb]
-** Process report : link:http://127.0.0.1:8888/lab/tree/2021-mid-term-report/process-report.ipynb[./2021-mid-term-report/process-report.ipynb]
