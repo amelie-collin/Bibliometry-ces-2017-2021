@@ -1,0 +1,4592 @@
+[
+    {
+      "ISSN": "0271-4132",
+      "Title": "Contemp. Math.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0302-9743",
+      "Title": "Lecture Notes in Comput. Sci.",
+      "Publisher": "Springer",
+      "Start_Year": "2016"
+    },
+    {
+      "ISSN": "0160-7634",
+      "Title": "Proc. Sympos. Appl. Math.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0082-0717",
+      "Title": "Proc. Sympos. Pure Math.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5858",
+      "Title": "Abh. Math. Semin. Univ. Hambg.",
+      "Publisher": "Springer",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0025-5858",
+      "Title": "Abh. Math. Sem. Univ. Hamburg",
+      "Publisher": "Vandenhoeck & Ruprecht",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1549-6325",
+      "Title": "ACM Trans. Algorithms",
+      "Publisher": "ACM",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1529-3785",
+      "Title": "ACM Trans. Comput. Log.",
+      "Publisher": "ACM",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1942-3454",
+      "Title": "ACM Trans. Comput. Theory",
+      "Publisher": "ACM",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0098-3500",
+      "Title": "ACM Trans. Math. Software",
+      "Publisher": "ACM",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0167-8019",
+      "Title": "Acta Appl. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0065-1036",
+      "Title": "Acta Arith.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0001-5962",
+      "Title": "Acta Math.",
+      "Publisher": "Inst. Mittag-Leffler",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0168-9673",
+      "Title": "Acta Math. Appl. Sin. Engl. Ser.",
+      "Publisher": "Springer",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0168-9673",
+      "Title": "Acta Math. Appl. Sinica (English Ser.)",
+      "Publisher": "Sci. Press Beijing",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0236-5294",
+      "Title": "Acta Math. Hungar.",
+      "Publisher": "Akad. Kiadó",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0252-9602",
+      "Title": "Acta Math. Sci. Ser. B (Engl. Ed.)",
+      "Publisher": "Sci. Press Beijing",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1000-9574",
+      "Title": "Acta Math. Sin. (Engl. Ser.)",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1439-8516",
+      "Title": "Acta Math. Sin. (Engl. Ser.)",
+      "Publisher": "Springer",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0583-1431",
+      "Title": "Acta Math. Sinica (Chinese Ser.)",
+      "Publisher": "Chinese Math. Soc., Acta Math. Sinica Ed. Comm.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0251-4184",
+      "Title": "Acta Math. Vietnam.",
+      "Publisher": "Vietnam. Acad. Sci. Technol., Inst. Math.",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0251-4184",
+      "Title": "Acta Math. Vietnam.",
+      "Publisher": "Vietnam Acad. Sci. Tech., Inst. Math.",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0251-4184",
+      "Title": "Acta Math. Vietnam.",
+      "Publisher": "Vietnam. Acad. Sci. Technol., Inst. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0962-4929",
+      "Title": "Acta Numer.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0001-6969",
+      "Title": "Acta Sci. Math. (Szeged)",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2070-0733",
+      "Title": "Adv. Appl. Math. Mech.",
+      "Publisher": "Glob. Sci. Pr.",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "1864-8258",
+      "Title": "Adv. Calc. Var.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1019-7168",
+      "Title": "Adv. Comput. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1019-7168",
+      "Title": "Adv. Comput. Math.",
+      "Publisher": "Baltzer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1079-9389",
+      "Title": "Adv. Differential Equations",
+      "Publisher": "Khayyam",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1615-715X",
+      "Title": "Adv. Geom.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0196-8858",
+      "Title": "Adv. in Appl. Math.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0001-8678",
+      "Title": "Adv. in Appl. Probab.",
+      "Publisher": "Appl. Probab. Trust",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0001-8708",
+      "Title": "Adv. Math.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1930-5346",
+      "Title": "Adv. Math. Commun.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1343-4373",
+      "Title": "Adv. Math. Sci. Appl.",
+      "Publisher": "Gakkōtosho",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2191-9496",
+      "Title": "Adv. Nonlinear Anal.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "1536-1365",
+      "Title": "Adv. Nonlinear Stud.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "2662-2009",
+      "Title": "Adv. Oper. Theory",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2016"
+    },
+    {
+      "ISSN": "1229-3067",
+      "Title": "Adv. Stud. Contemp. Math. (Kyungshang)",
+      "Publisher": "Jangjeon Math. Soc.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1534-5963",
+      "Title": "Adv. Theor. Econ.",
+      "Publisher": "Berkeley Electronic Press",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1095-0761",
+      "Title": "Adv. Theor. Math. Phys.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0001-9054",
+      "Title": "Aequationes Math.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2316-090X",
+      "Title": "Afr. Stat.",
+      "Publisher": "The Statistics and Probability African Society",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0825-0305",
+      "Title": "Afr. Stat.",
+      "Publisher": "Afrika Stat.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0002-5232",
+      "Title": "Algebra and Logic",
+      "Publisher": "Kluwer Academic/Consultants Bureau",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1005-3867",
+      "Title": "Algebra Colloq.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1005-3867",
+      "Title": "Algebra Colloq.",
+      "Publisher": "Springer Hong Kong",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0002-5232",
+      "Title": "Algebra Logic",
+      "Publisher": "Springer",
+      "Start_Year": "2021"
+    },
+    {
+      "ISSN": "1937-0652",
+      "Title": "Algebra Number Theory",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0002-5240",
+      "Title": "Algebra Universalis",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0002-5240",
+      "Title": "Algebra Universalis",
+      "Publisher": "Univ. Manitoba",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2313-1691",
+      "Title": "Algebr. Geom.",
+      "Publisher": "Foundation Compositio Mathematics",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1472-2747",
+      "Title": "Algebr. Geom. Topol.",
+      "Publisher": "Geom. Topol. Publ.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1472-2747",
+      "Title": "Algebr. Geom. Topol.",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1386-923X",
+      "Title": "Algebr. Represent. Theory",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0178-4617",
+      "Title": "Algorithmica",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0002-9327",
+      "Title": "Amer. J. Math.",
+      "Publisher": "Johns Hopkins Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0002-9890",
+      "Title": "Amer. Math. Monthly",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0219-5305",
+      "Title": "Anal. Appl. (Singap.)",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1664-2368",
+      "Title": "Anal. Math. Phys.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "2157-5045",
+      "Title": "Anal. PDE",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0174-4747",
+      "Title": "Analysis (Berlin)",
+      "Publisher": "Oldenbourg Verlag",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0174-4747",
+      "Title": "Analysis (Munich)",
+      "Publisher": "Oldenbourg",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1239-629X",
+      "Title": "Ann. Acad. Sci. Fenn. Math.",
+      "Publisher": "Acad. Sci. Fennica",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2096-0174",
+      "Title": "Ann. Appl. Math.",
+      "Publisher": "Glob. Sci. Pr.",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "1050-5164",
+      "Title": "Ann. Appl. Probab.",
+      "Publisher": "Inst. Math. Statist.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0218-0006",
+      "Title": "Ann. Comb.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1002-0942",
+      "Title": "Ann. Differential Equations",
+      "Publisher": "Fuzhou Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0240-2963",
+      "Title": "Ann. Fac. Sci. Toulouse Math. (6)",
+      "Publisher": "Univ. Paul Sabatier",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2737-0690",
+      "Title": "Ann. Fenn. Math.",
+      "Publisher": "Finn. Math. Soc.",
+      "Start_Year": "2021"
+    },
+    {
+      "ISSN": "2639-7390",
+      "Title": "Ann. Funct. Anal.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0232-704X",
+      "Title": "Ann. Global Anal. Geom.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1424-0637",
+      "Title": "Ann. Henri Poincaré",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0373-0956",
+      "Title": "Ann. Inst. Fourier (Grenoble)",
+      "Publisher": "Univ. Grenoble I",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0246-0203",
+      "Title": "Ann. Inst. Henri Poincaré Probab. Stat.",
+      "Publisher": "Inst. Henri Poincaré",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0294-1449",
+      "Title": "Ann. Inst. H. Poincaré C  Anal. Non Linéaire",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0246-0203",
+      "Title": "Ann. Inst. H. Poincaré Probab. Statist.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0020-3157",
+      "Title": "Ann. Inst. Statist. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2379-1683",
+      "Title": "Ann. K-Theory",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2016"
+    },
+    {
+      "ISSN": "1259-1734",
+      "Title": "Ann. Math. Blaise Pascal",
+      "Publisher": "Univ. Blaise Pascal, Lab. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2195-4755",
+      "Title": "Ann. Math. Qué.",
+      "Publisher": "Springer",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0373-3114",
+      "Title": "Ann. Mat. Pura Appl. (4)",
+      "Publisher": "Springer",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0003-4622",
+      "Title": "Ann. Mat. Pura Appl. (4)",
+      "Publisher": "Zanichelli",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0003-486X",
+      "Title": "Ann. of Math. (2)",
+      "Publisher": "Princeton Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "2524-5317",
+      "Title": "Ann. PDE",
+      "Publisher": "Springer",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "0066-2216",
+      "Title": "Ann. Polon. Math.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0091-1798",
+      "Title": "Ann. Probab.",
+      "Publisher": "Inst. Math. Statist.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0168-0072",
+      "Title": "Ann. Pure Appl. Logic",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-9593",
+      "Title": "Ann. Sci. Éc. Norm. Supér. (4)",
+      "Publisher": "Soc. Math. France",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0012-9593",
+      "Title": "Ann. Sci. École Norm. Sup. (4)",
+      "Publisher": "Gauthier-Villars",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0391-173X",
+      "Title": "Ann. Sc. Norm. Super. Pisa Cl. Sci. (5)",
+      "Publisher": "Scuola Norm. Sup.",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0391-173X",
+      "Title": "Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4)",
+      "Publisher": "Scuola Norm. Sup.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0090-5364",
+      "Title": "Ann. Statist.",
+      "Publisher": "Inst. Math. Statist.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0430-3202",
+      "Title": "Ann. Univ. Ferrara Sez. VII (N.S.)",
+      "Publisher": "Univ. Ferrara",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0430-3202",
+      "Title": "Ann. Univ. Ferrara Sez. VII Sci. Mat.",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0938-1279",
+      "Title": "Appl. Algebra Engrg. Comm. Comput.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0003-6811",
+      "Title": "Appl. Anal.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0003-6811",
+      "Title": "Appl. Anal.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1452-8630",
+      "Title": "Appl. Anal. Discrete Math.",
+      "Publisher": "Univ. Belgrade",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0927-2852",
+      "Title": "Appl. Categ. Structures",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1063-5203",
+      "Title": "Appl. Comput. Harmon. Anal.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "1996"
+    },
+    {
+      "ISSN": "0862-7940",
+      "Title": "Appl. Math.",
+      "Publisher": "Acad. Sci. Czech Repub. Inst. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1350-486X",
+      "Title": "Appl. Math. Finance",
+      "Publisher": "Routledge Journals, Taylor & Francis, Ltd.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0893-9659",
+      "Title": "Appl. Math. Lett.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0095-4616",
+      "Title": "Appl. Math. Optim.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0168-9274",
+      "Title": "Appl. Numer. Math.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1134-3060",
+      "Title": "Arch. Comput. Methods Eng.",
+      "Publisher": "Springer",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1134-3060",
+      "Title": "Arch. Comput. Methods Engrg.",
+      "Publisher": "Internat. Center Numer. Methods Eng. (CIMNE)",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0003-9519",
+      "Title": "Arch. Hist. Exact Sci.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0003-889X",
+      "Title": "Arch. Math. (Basel)",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0044-8753",
+      "Title": "Arch. Math. (Brno)",
+      "Publisher": "Masaryk Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0933-5846",
+      "Title": "Arch. Math. Logic",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0003-9527",
+      "Title": "Arch. Rational Mech. Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0003-9527",
+      "Title": "Arch. Ration. Mech. Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0004-2080",
+      "Title": "Ark. Mat.",
+      "Publisher": "Inst. Mittag-Leffler",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2199-6792",
+      "Title": "Arnold Math. J.",
+      "Publisher": "Springer",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "0381-7032",
+      "Title": "Ars Combin.",
+      "Publisher": "Charles Babbage Res. Centre",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1855-3966",
+      "Title": "Ars Math. Contemp.",
+      "Publisher": "Društvo Mat. Fiz. Astronom. Slovenije",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1093-6106",
+      "Title": "Asian J. Math.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0303-1179",
+      "Title": "Astérisque",
+      "Publisher": "Soc. Math. France",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0921-7134",
+      "Title": "Asymptot. Anal.",
+      "Publisher": "IOS",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1120-6330",
+      "Title": "Atti Accad. Naz. Lincei Cl. Sci. Fis. Mat. Natur. Rend. Lincei (9) Mat. Appl.",
+      "Publisher": "Accad. Naz. Lincei",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1120-6330",
+      "Title": "Atti Accad. Naz. Lincei Rend. Lincei Mat. Appl.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1034-4942",
+      "Title": "Australas. J. Combin.",
+      "Publisher": "Univ. Qld.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0005-1098",
+      "Title": "Automatica J. IFAC",
+      "Publisher": "Elsevier",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1735-8787",
+      "Title": "Banach J. Math. Anal.",
+      "Publisher": "Banach Math. Res. Group (BMRG)",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "2662-2033",
+      "Title": "Banach J. Math. Anal.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0138-4821",
+      "Title": "Beiträge Algebra Geom.",
+      "Publisher": "Heldermann",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0138-4821",
+      "Title": "Beitr. Algebra Geom.",
+      "Publisher": "Springer",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1935-1704",
+      "Title": "B. E. J. Theor. Econ.",
+      "Publisher": "Berkeley Electronic Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "2194-6124",
+      "Title": "B. E. J. Theor. Econ.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "1350-7265",
+      "Title": "Bernoulli",
+      "Publisher": "Internat. Statist. Inst.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0006-3444",
+      "Title": "Biometrika",
+      "Publisher": "Biometrika Trust",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0006-3835",
+      "Title": "BIT",
+      "Publisher": "Springer",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "0006-3835",
+      "Title": "BIT",
+      "Publisher": "Swets & Zeitlinger",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1972-6724",
+      "Title": "Boll. Unione Mat. Ital.",
+      "Publisher": "Springer",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1972-6724",
+      "Title": "Boll. Unione Mat. Ital. (9)",
+      "Publisher": "Unione Mat. Ital.",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0392-4041",
+      "Title": "Boll. Unione Mat. Ital. Sez. B Artic. Ric. Mat. (8)",
+      "Publisher": "Zanichelli",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0100-3569",
+      "Title": "Bol. Soc. Brasil. Mat. (N.S.)",
+      "Publisher": "Soc. Brasil. Mat.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1405-213X",
+      "Title": "Bol. Soc. Mat. Mex. (3)",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1405-213X",
+      "Title": "Bol. Soc. Mat. Mexicana (3)",
+      "Publisher": "Soc. Mat. Mexicana",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1687-2762",
+      "Title": "Bound. Value Probl.",
+      "Publisher": "Springer",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1687-2762",
+      "Title": "Bound. Value Probl.",
+      "Publisher": "Hindawi Publ. Corp.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0273-0979",
+      "Title": "Bull. Amer. Math. Soc. (N.S.)",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1992"
+    },
+    {
+      "ISSN": "0004-9727",
+      "Title": "Bull. Aust. Math. Soc.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0004-9727",
+      "Title": "Bull. Austral. Math. Soc.",
+      "Publisher": "Austral. Math. Publ. Assoc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1370-1444",
+      "Title": "Bull. Belg. Math. Soc. Simon Stevin",
+      "Publisher": "Soc. Math. Belgique",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1678-7544",
+      "Title": "Bull. Braz. Math. Soc. (N.S.)",
+      "Publisher": "Springer",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0252-9742",
+      "Title": "Bull. Eur. Assoc. Theor. Comput. Sci. EATCS",
+      "Publisher": "Eur. Assoc. Theor. Comput. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0304-9825",
+      "Title": "Bull. Inst. Math. Acad. Sinica",
+      "Publisher": "Acad. Sinica",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2304-7909",
+      "Title": "Bull. Inst. Math. Acad. Sin. (N.S.)",
+      "Publisher": "Acad. Sinica",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1017-060X",
+      "Title": "Bull. Iranian Math. Soc.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1015-8634",
+      "Title": "Bull. Korean Math. Soc.",
+      "Publisher": "Korean Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0024-6093",
+      "Title": "Bull. Lond. Math. Soc.",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0024-6093",
+      "Title": "Bull. London Math. Soc.",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0126-6705",
+      "Title": "Bull. Malays. Math. Sci. Soc.",
+      "Publisher": "Springer",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "0126-6705",
+      "Title": "Bull. Malays. Math. Sci. Soc. (2)",
+      "Publisher": "Malays. Math. Sci. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0092-8240",
+      "Title": "Bull. Math. Biol.",
+      "Publisher": "Springer",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0092-8240",
+      "Title": "Bull. Math. Biol.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1664-3607",
+      "Title": "Bull. Math. Sci.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0239-7269",
+      "Title": "Bull. Pol. Acad. Sci. Math.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0239-7269",
+      "Title": "Bull. Polish Acad. Sci. Math.",
+      "Publisher": "Polska Akad. Nauk",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0007-4497",
+      "Title": "Bull. Sci. Math.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0037-9484",
+      "Title": "Bull. Soc. Math. France",
+      "Publisher": "Soc. Math. France",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1079-8986",
+      "Title": "Bull. Symb. Log.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1079-8986",
+      "Title": "Bull. Symbolic Logic",
+      "Publisher": "Assoc. Symbol. Logic",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1245-530X",
+      "Title": "Cah. Topol. Géom. Différ. Catég.",
+      "Publisher": "Univ. Picardie",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0008-0624",
+      "Title": "Calcolo",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0944-2669",
+      "Title": "Calc. Var. Partial Differential Equations",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2168-0930",
+      "Title": "Camb. J. Math.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0008-414X",
+      "Title": "Canad. J. Math.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0008-4395",
+      "Title": "Canad. Math. Bull.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1895-1074",
+      "Title": "Cent. Eur. J. Math.",
+      "Publisher": "Versita",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1895-1074",
+      "Title": "Cent. Eur. J. Math.",
+      "Publisher": "Cent. Eur. Sci. J.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "0252-9599",
+      "Title": "Chinese Ann. Math. Ser. B",
+      "Publisher": "Shanghai Sci. Tech. Lit. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0252-9599",
+      "Title": "Chinese Ann. Math. Ser. B",
+      "Publisher": "Chin. Ann. Math., Ed. Office",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0264-9381",
+      "Title": "Classical Quantum Gravity",
+      "Publisher": "Inst. Phys.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0010-0757",
+      "Title": "Collect. Math.",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0010-0757",
+      "Title": "Collect. Math.",
+      "Publisher": "Univ. Barcelona",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0010-1354",
+      "Title": "Colloq. Math.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0209-9683",
+      "Title": "Combinatorica",
+      "Publisher": "János Bolyai Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0963-5483",
+      "Title": "Combin. Probab. Comput.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0092-7872",
+      "Title": "Comm. Algebra",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1019-8385",
+      "Title": "Comm. Anal. Geom.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0010-2571",
+      "Title": "Comment. Math. Helv.",
+      "Publisher": "Birkhäuser",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0010-2571",
+      "Title": "Comment. Math. Helv.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0010-2628",
+      "Title": "Comment. Math. Univ. Carolin.",
+      "Publisher": "Charles Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0010-3616",
+      "Title": "Comm. Math. Phys.",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0360-5302",
+      "Title": "Comm. Partial Differential Equations",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0010-3640",
+      "Title": "Comm. Pure Appl. Math.",
+      "Publisher": "Wiley",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1559-3940",
+      "Title": "Commun. Appl. Math. Comput. Sci.",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1815-2406",
+      "Title": "Commun. Comput. Phys.",
+      "Publisher": "Glob. Sci. Pr.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0219-1997",
+      "Title": "Commun. Contemp. Math.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1804-1388",
+      "Title": "Commun. Math.",
+      "Publisher": "Univ. Ostrava",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1539-6746",
+      "Title": "Commun. Math. Sci.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1931-4523",
+      "Title": "Commun. Number Theory Phys.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1534-0392",
+      "Title": "Commun. Pure Appl. Anal.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1661-8254",
+      "Title": "Complex Anal. Oper. Theory",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1747-6933",
+      "Title": "Complex Var. Elliptic Equ.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0278-1077",
+      "Title": "Complex Variables Theory Appl.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0278-1077",
+      "Title": "Complex Var. Theory Appl.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0010-437X",
+      "Title": "Compositio Math.",
+      "Publisher": "Kluwer Acad. Publ.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0010-437X",
+      "Title": "Compos. Math.",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "2211-3568",
+      "Title": "Computability",
+      "Publisher": "IOS",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "0167-8396",
+      "Title": "Comput. Aided Geom. Design",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1016-3328",
+      "Title": "Comput. Complexity",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0045-7930",
+      "Title": "Comput. & Fluids",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0925-7721",
+      "Title": "Comput. Geom.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1420-0597",
+      "Title": "Comput. Geosci.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1420-0597",
+      "Title": "Comput. Geosci.",
+      "Publisher": "Baltzer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0898-1221",
+      "Title": "Comput. Math. Appl.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0178-7675",
+      "Title": "Comput. Mech.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1609-4840",
+      "Title": "Comput. Methods Appl. Math.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "0045-7825",
+      "Title": "Comput. Methods Appl. Mech. Engrg.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1617-9447",
+      "Title": "Comput. Methods Funct. Theory",
+      "Publisher": "Springer",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "1617-9447",
+      "Title": "Comput. Methods Funct. Theory",
+      "Publisher": "Heldermann",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0926-6003",
+      "Title": "Comput. Optim. Appl.",
+      "Publisher": "Springer",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0926-6003",
+      "Title": "Comput. Optim. Appl.",
+      "Publisher": "Kluwer Acad. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1432-9360",
+      "Title": "Comput. Vis. Sci.",
+      "Publisher": "Springer",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1793-7442",
+      "Title": "Confluentes Math.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0176-4276",
+      "Title": "Constr. Approx.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0764-4442",
+      "Title": "C. R. Acad. Sci. Paris Sér. I Math.",
+      "Publisher": "Éd. Elsevier",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1631-073X",
+      "Title": "C. R. Math. Acad. Sci. Paris",
+      "Publisher": "Acad. Sci., Inst. France",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0011-4642",
+      "Title": "Czechoslovak Math. J.",
+      "Publisher": "Acad. Sci. Czech Repub. Inst. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0925-1022",
+      "Title": "Des. Codes Cryptogr.",
+      "Publisher": "Kluwer Acad. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0925-1022",
+      "Title": "Des. Codes Cryptogr.",
+      "Publisher": "Springer",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0971-3514",
+      "Title": "Differential Equations Dynam. Systems",
+      "Publisher": "Res. Sq. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0926-2245",
+      "Title": "Differential Geom. Appl.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0893-4983",
+      "Title": "Differential Integral Equations",
+      "Publisher": "Khayyam",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-2661",
+      "Title": "Differ. Equ.",
+      "Publisher": "MAIK Nauka/Interperiod. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-2661",
+      "Title": "Differ. Equ.",
+      "Publisher": "Pleiades Publishing, Ltd.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0971-3514",
+      "Title": "Differ. Equ. Dyn. Syst.",
+      "Publisher": "Springer India",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0166-218X",
+      "Title": "Discrete Appl. Math.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0179-5376",
+      "Title": "Discrete Comput. Geom.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1078-0947",
+      "Title": "Discrete Contin. Dynam. Systems",
+      "Publisher": "Southwest Missouri State Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1078-0947",
+      "Title": "Discrete Contin. Dyn. Syst.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1531-3492",
+      "Title": "Discrete Contin. Dyn. Syst. Ser. B",
+      "Publisher": "Southwest Missouri State Univ.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1531-3492",
+      "Title": "Discrete Contin. Dyn. Syst. Ser. B",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1937-1632",
+      "Title": "Discrete Contin. Dyn. Syst. Ser. S",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0924-6703",
+      "Title": "Discrete Event Dyn. Syst.",
+      "Publisher": "Kluwer Acad. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0924-6703",
+      "Title": "Discrete Event Dyn. Syst.",
+      "Publisher": "Springer",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0012-365X",
+      "Title": "Discrete Math.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1365-8050",
+      "Title": "Discrete Math. Theor. Comput. Sci.",
+      "Publisher": "Maison Inform. Math. Discrèt. (MIMD)",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1572-5286",
+      "Title": "Discrete Optim.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1234-3099",
+      "Title": "Discuss. Math. Graph Theory",
+      "Publisher": "Univ. Zielona Góra Pr.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-3862",
+      "Title": "Dissertationes Math.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0012-3862",
+      "Title": "Dissertationes Math. (Rozprawy Mat.)",
+      "Publisher": "Polish Acad. Sci. Inst. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1431-0635",
+      "Title": "Doc. Math.",
+      "Publisher": "Deutsche Math. Ver.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-7094",
+      "Title": "Duke Math. J.",
+      "Publisher": "Duke Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1056-2176",
+      "Title": "Dynam. Systems Appl.",
+      "Publisher": "Dynamic",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2153-0785",
+      "Title": "Dyn. Games Appl.",
+      "Publisher": "Birkhäuser Boston",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1548-159X",
+      "Title": "Dyn. Partial Differ. Equ.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0268-1110",
+      "Title": "Dyn. Stab. Syst.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1468-9367",
+      "Title": "Dyn. Syst.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1310-6236",
+      "Title": "East J. Approx.",
+      "Publisher": "DARBA",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1310-6236",
+      "Title": "East J. Approx.",
+      "Publisher": "TND SOFT",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0928-0200",
+      "Title": "East-West J. Numer. Math.",
+      "Publisher": "VSP",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-9682",
+      "Title": "Econometrica",
+      "Publisher": "Econometric Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1083-589X",
+      "Title": "Electron. Comm. Probab.",
+      "Publisher": "Electron. J. Probab. and Electron. Comm. Probab.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1083-6489",
+      "Title": "Electron. J. Probab.",
+      "Publisher": "Electron. J. Probab. and Electron. Comm. Probab.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1079-6762",
+      "Title": "Electron. Res. Announc. Amer. Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "2308-2151",
+      "Title": "EMS Surv. Math. Sci.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "0013-8584",
+      "Title": "Enseign. Math.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0013-8584",
+      "Title": "Enseign. Math. (2)",
+      "Publisher": "Enseignement Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0143-3857",
+      "Title": "Ergodic Theory Dynam. Systems",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1292-8119",
+      "Title": "ESAIM Control Optim. Calc. Var.",
+      "Publisher": "Soc. Math. Appl. Indust.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1292-8119",
+      "Title": "ESAIM Control Optim. Calc. Var.",
+      "Publisher": "EDP Sci.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "2822-7840",
+      "Title": "ESAIM Math. Model. Numer. Anal.",
+      "Publisher": "EDP Sci.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1292-8100",
+      "Title": "ESAIM Probab. Stat.",
+      "Publisher": "EDP Sci.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1292-8100",
+      "Title": "ESAIM Probab. Statist.",
+      "Publisher": "Soc. Math. Appl. Indust.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0947-3580",
+      "Title": "Eur. J. Control",
+      "Publisher": "Hermes Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0947-3580",
+      "Title": "Eur. J. Control",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "2199-675X",
+      "Title": "Eur. J. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "0956-7925",
+      "Title": "European J. Appl. Math.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0195-6698",
+      "Title": "European J. Combin.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2163-2472",
+      "Title": "Evol. Equ. Control Theory",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "1058-6458",
+      "Title": "Experiment. Math.",
+      "Publisher": "A K Peters",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1058-6458",
+      "Title": "Exp. Math.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0723-0869",
+      "Title": "Expo. Math.",
+      "Publisher": "Urban & Fischer Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0723-0869",
+      "Title": "Expo. Math.",
+      "Publisher": "Elsevier",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0213-8743",
+      "Title": "Extracta Math.",
+      "Publisher": "Univ. Extremadura",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1386-1999",
+      "Title": "Extremes",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0015-0517",
+      "Title": "Fibonacci Quart.",
+      "Publisher": "Fibonacci Assoc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0949-2984",
+      "Title": "Finance Stoch.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1071-5797",
+      "Title": "Finite Fields Appl.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0933-7741",
+      "Title": "Forum Math.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1615-3375",
+      "Title": "Found. Comput. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1673-3452",
+      "Title": "Front. Math. China",
+      "Publisher": "Higher Ed. Press",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0016-2663",
+      "Title": "Funct. Anal. Appl.",
+      "Publisher": "Springer",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1991-0061",
+      "Title": "Funct. Anal. Other Math.",
+      "Publisher": "PHASIS",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1991-0061",
+      "Title": "Funct. Anal. Other Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0208-6573",
+      "Title": "Funct. Approx. Comment. Math.",
+      "Publisher": "Mickiewicz Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0793-1786",
+      "Title": "Funct. Differ. Equ.",
+      "Publisher": "Ariel Univ. Cent. Samaria",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0793-1786",
+      "Title": "Funct. Differ. Equ.",
+      "Publisher": "Coll. Judea Samaria",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0016-2736",
+      "Title": "Fund. Math.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0532-8721",
+      "Title": "Funkcial. Ekvac.",
+      "Publisher": "Math. Soc. Japan",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0899-8256",
+      "Title": "Games Econom. Behav.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0936-7195",
+      "Title": "GAMM-Mitt.",
+      "Publisher": "WILEY-VCH",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0936-7195",
+      "Title": "GAMM Mitt. Ges. Angew. Math. Mech.",
+      "Publisher": "WILEY-VCH",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0046-5755",
+      "Title": "Geom. Dedicata",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1016-443X",
+      "Title": "Geom. Funct. Anal.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1465-3060",
+      "Title": "Geom. Topol.",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1465-3060",
+      "Title": "Geom. Topol.",
+      "Publisher": "Geom. Topol. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0017-0895",
+      "Title": "Glasg. Math. J.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0017-095X",
+      "Title": "Glas. Mat. Ser. III",
+      "Publisher": "Croatian Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0911-0119",
+      "Title": "Graphs Combin.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1867-1144",
+      "Title": "Groups Complex. Cryptol.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1661-7207",
+      "Title": "Groups Geom. Dyn.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0018-2079",
+      "Title": "Hiroshima Math. J.",
+      "Publisher": "Hiroshima Univ. Grad. Sch. Sci., Dep. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0315-0860",
+      "Title": "Historia Math.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0385-4035",
+      "Title": "Hokkaido Math. J.",
+      "Publisher": "Hokkaido Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1532-0081",
+      "Title": "Homology Homotopy Appl.",
+      "Publisher": "Homology Homotopy Appl.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1532-0081",
+      "Title": "Homology Homotopy Appl.",
+      "Publisher": "Homology Homotopy Appl.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1532-0073",
+      "Title": "Homology Homotopy Appl.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0362-1588",
+      "Title": "Houston J. Math.",
+      "Publisher": "Houston J. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0018-9286",
+      "Title": "IEEE Trans. Automat. Control",
+      "Publisher": "IEEE",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0018-9448",
+      "Title": "IEEE Trans. Inform. Theory",
+      "Publisher": "IEEE",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0019-2082",
+      "Title": "Illinois J. Math.",
+      "Publisher": "Duke Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0272-4960",
+      "Title": "IMA J. Appl. Math.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0272-4979",
+      "Title": "IMA J. Numer. Anal.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1687-3017",
+      "Title": "IMRP Int. Math. Res. Pap.",
+      "Publisher": "Hindawi Publ. Corp.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1687-1308",
+      "Title": "IMRS Int. Math. Res. Surv.",
+      "Publisher": "Hindawi Publ. Corp.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0019-3577",
+      "Title": "Indag. Math. (N.S.)",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0022-2518",
+      "Title": "Indiana Univ. Math. J.",
+      "Publisher": "Indiana Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0219-0257",
+      "Title": "Infin. Dimens. Anal. Quantum Probab. Relat. Top.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0890-5401",
+      "Title": "Inform. and Comput.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2640-7337",
+      "Title": "Innov. Incidence Geom.",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0073-8301",
+      "Title": "Inst. Hautes Études Sci. Publ. Math.",
+      "Publisher": "Inst. Hautes Études Sci.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0167-6687",
+      "Title": "Insurance Math. Econom.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1553-1732",
+      "Title": "Integers",
+      "Publisher": "Integers",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1867-0652",
+      "Title": "Integers",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0378-620X",
+      "Title": "Integral Equations Operator Theory",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1065-2469",
+      "Title": "Integral Transform. Spec. Funct.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1065-2469",
+      "Title": "Integral Transforms Spec. Funct.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1463-9963",
+      "Title": "Interfaces Free Bound.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1463-9963",
+      "Title": "Interfaces Free Bound.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "0218-1967",
+      "Title": "Internat. J. Algebra Comput.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0020-7276",
+      "Title": "Internat. J. Game Theory",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0129-167X",
+      "Title": "Internat. J. Math.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0029-5981",
+      "Title": "Internat. J. Numer. Methods Engrg.",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0271-2091",
+      "Title": "Internat. J. Numer. Methods Fluids",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1073-7928",
+      "Title": "Internat. Math. Res. Notices",
+      "Publisher": "Duke Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1542-7951",
+      "Title": "Internet Math.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1542-7951",
+      "Title": "Internet Math.",
+      "Publisher": "A K Peters",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1793-0421",
+      "Title": "Int. J. Number Theory",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1705-5105",
+      "Title": "Int. J. Numer. Anal. Model.",
+      "Publisher": "Inst. Sci. Comput. Info.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1073-7928",
+      "Title": "Int. Math. Res. Not.",
+      "Publisher": "Hindawi Publ. Corp.",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1073-7928",
+      "Title": "Int. Math. Res. Not. IMRN",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1687-3017",
+      "Title": "Int. Math. Res. Pap. IMRP",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1687-1308",
+      "Title": "Int. Math. Res. Surv. IMRS",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0020-9910",
+      "Title": "Invent. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0266-5611",
+      "Title": "Inverse Problems",
+      "Publisher": "Inst. Phys.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1930-8337",
+      "Title": "Inverse Probl. Imaging",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1944-4176",
+      "Title": "Involve",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0021-2172",
+      "Title": "Israel J. Math.",
+      "Publisher": "Magnes Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1064-5632",
+      "Title": "Izv. Math.",
+      "Publisher": "Russ. Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0004-5411",
+      "Title": "J. ACM",
+      "Publisher": "ACM",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1889-3066",
+      "Title": "Jaen J. Approx.",
+      "Publisher": "Univ. Jaén, Dep. Mat.",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0012-0456",
+      "Title": "Jahresber. Deutsch. Math.-Verein.",
+      "Publisher": "Teubner",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0012-0456",
+      "Title": "Jahresber. Dtsch. Math.-Ver.",
+      "Publisher": "Vieweg + Teubner",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0012-0456",
+      "Title": "Jahresber. Dtsch. Math.-Ver.",
+      "Publisher": "Springer",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0021-8693",
+      "Title": "J. Algebra",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0219-4988",
+      "Title": "J. Algebra Appl.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0925-9899",
+      "Title": "J. Algebraic Combin.",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1056-3911",
+      "Title": "J. Algebraic Geom.",
+      "Publisher": "Univ. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0196-6774",
+      "Title": "J. Algorithms",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0894-0347",
+      "Title": "J. Amer. Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1988"
+    },
+    {
+      "ISSN": "0162-1459",
+      "Title": "J. Amer. Statist. Assoc.",
+      "Publisher": "Amer. Statist. Assoc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0021-7670",
+      "Title": "J. Anal. Math.",
+      "Publisher": "Magnes Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0916-7005",
+      "Title": "Japan J. Indust. Appl. Math.",
+      "Publisher": "Kinokuniya",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0289-2316",
+      "Title": "Japan. J. Math. (N.S.)",
+      "Publisher": "Math. Soc. Japan",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1598-5865",
+      "Title": "J. Appl. Math. Comput.",
+      "Publisher": "Springer",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1598-5865",
+      "Title": "J. Appl. Math. Comput.",
+      "Publisher": "Korean Soc. Comput. Appl. Math.",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0021-9002",
+      "Title": "J. Appl. Probab.",
+      "Publisher": "Appl. Probab. Trust",
+      "Start_Year": "1991"
+    },
+    {
+      "ISSN": "0021-9045",
+      "Title": "J. Approx. Theory",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1446-7887",
+      "Title": "J. Aust. Math. Soc.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1446-7887",
+      "Title": "J. Aust. Math. Soc.",
+      "Publisher": "Austral. Math. Soc.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0263-6115",
+      "Title": "J. Austral. Math. Soc. Ser. A",
+      "Publisher": "Austral. Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1751-3758",
+      "Title": "J. Biol. Dyn.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "2156-3527",
+      "Title": "J. Comb.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "2415-6302",
+      "Title": "J. Comb. Algebra",
+      "Publisher": "EMS Press",
+      "Start_Year": "2017"
+    },
+    {
+      "ISSN": "1063-8539",
+      "Title": "J. Combin. Des.",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0097-3165",
+      "Title": "J. Combin. Theory Ser. A",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0095-8956",
+      "Title": "J. Combin. Theory Ser. B",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1939-0807",
+      "Title": "J. Commut. Algebra",
+      "Publisher": "Rocky Mountain Math. Consortium",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0885-064X",
+      "Title": "J. Complexity",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0377-0427",
+      "Title": "J. Comput. Appl. Math.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2158-2491",
+      "Title": "J. Comput. Dyn.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1061-8600",
+      "Title": "J. Comput. Graph. Statist.",
+      "Publisher": "Amer. Statist. Assoc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0254-9409",
+      "Title": "J. Comput. Math.",
+      "Publisher": "Chinese Acad. Sci.. Acad. Math. Syst. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0021-9991",
+      "Title": "J. Comput. Phys.",
+      "Publisher": "Elsevier",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0022-0000",
+      "Title": "J. Comput. System Sci.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0944-6532",
+      "Title": "J. Convex Anal.",
+      "Publisher": "Heldermann",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0933-2790",
+      "Title": "J. Cryptology",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1023-6198",
+      "Title": "J. Difference Equ. Appl.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0022-0396",
+      "Title": "J. Differential Equations",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0022-040X",
+      "Title": "J. Differential Geom.",
+      "Publisher": "Lehigh Univ.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1023-6198",
+      "Title": "J. Differ. Equations Appl.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1570-8667",
+      "Title": "J. Discrete Algorithms",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1079-2724",
+      "Title": "J. Dynam. Control Systems",
+      "Publisher": "Kluwer/Plenum",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1040-7294",
+      "Title": "J. Dynam. Differential Equations",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1079-2724",
+      "Title": "J. Dyn. Control Syst.",
+      "Publisher": "Springer",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "2164-6066",
+      "Title": "J. Dyn. Games",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "0165-1889",
+      "Title": "J. Econom. Dynam. Control",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0022-0531",
+      "Title": "J. Econom. Theory",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2429-7100",
+      "Title": "J. Éc. polytech. Math.",
+      "Publisher": "Université Paris - Saclay, École Polytechnique",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "0374-3535",
+      "Title": "J. Elasticity",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2296-9020",
+      "Title": "J. Elliptic Parabol. Equ.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "1435-9855",
+      "Title": "J. Eur. Math. Soc. (JEMS)",
+      "Publisher": "Springer",
+      "Start_Year": "1999"
+    },
+    {
+      "ISSN": "1435-9855",
+      "Title": "J. Eur. Math. Soc. (JEMS)",
+      "Publisher": "EMS Press",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1424-3199",
+      "Title": "J. Evol. Equ.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1661-7738",
+      "Title": "J. Fixed Point Theory Appl.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1069-5869",
+      "Title": "J. Fourier Anal. Appl.",
+      "Publisher": "Birkhäuser Boston",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2308-1309",
+      "Title": "J. Fractal Geom.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "0022-1236",
+      "Title": "J. Funct. Anal.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0972-6802",
+      "Title": "J. Funct. Spaces Appl.",
+      "Publisher": "Sci. Horiz.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "0972-6802",
+      "Title": "J. Funct. Spaces Appl.",
+      "Publisher": "Hindawi Publ. Corp.",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "1050-6926",
+      "Title": "J. Geom. Anal.",
+      "Publisher": "Math. Josephina",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1050-6926",
+      "Title": "J. Geom. Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1941-4889",
+      "Title": "J. Geom. Mech.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0393-0440",
+      "Title": "J. Geom. Phys.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0925-5001",
+      "Title": "J. Global Optim.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0364-9024",
+      "Title": "J. Graph Theory",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1867-1144",
+      "Title": "J. Groups Complex. Cryptol.",
+      "Publisher": "Journal of Groups, Complexity, Cryptology",
+      "Start_Year": "2020"
+    },
+    {
+      "ISSN": "1433-5883",
+      "Title": "J. Group Theory",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2193-8407",
+      "Title": "J. Homotopy Relat. Struct.",
+      "Publisher": "Springer",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "0219-8916",
+      "Title": "J. Hyperbolic Differ. Equ.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1547-5816",
+      "Title": "J. Ind. Manag. Optim.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1025-5834",
+      "Title": "J. Inequal. Appl.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1025-5834",
+      "Title": "J. Inequal. Appl.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1025-5834",
+      "Title": "J. Inequal. Appl.",
+      "Publisher": "Hindawi Publ. Corp.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1474-7480",
+      "Title": "J. Inst. Math. Jussieu",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0897-3962",
+      "Title": "J. Integral Equations Appl.",
+      "Publisher": "Rocky Mountain Math. Consortium",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0928-0219",
+      "Title": "J. Inverse Ill-Posed Probl.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0928-0219",
+      "Title": "J. Inverse Ill-Posed Probl.",
+      "Publisher": "VSP",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0218-2165",
+      "Title": "J. Knot Theory Ramifications",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0304-9914",
+      "Title": "J. Korean Math. Soc.",
+      "Publisher": "Korean Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1865-2433",
+      "Title": "J. K-Theory",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0949-5932",
+      "Title": "J. Lie Theory",
+      "Publisher": "Heldermann",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2352-2208",
+      "Title": "J. Log. Algebr. Methods Program.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "1567-8326",
+      "Title": "J. Log. Algebr. Program.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0955-792X",
+      "Title": "J. Logic Comput.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0743-1066",
+      "Title": "J. Logic Programming",
+      "Publisher": "North-Holland",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0024-6107",
+      "Title": "J. Lond. Math. Soc. (2)",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0024-6107",
+      "Title": "J. London Math. Soc. (2)",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1532-4435",
+      "Title": "J. Mach. Learn. Res.",
+      "Publisher": "J. Mach. Learn. Res.",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1532-4435",
+      "Title": "J. Mach. Learn. Res.",
+      "Publisher": "MIT Press",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0022-247X",
+      "Title": "J. Math. Anal. Appl.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0303-6812",
+      "Title": "J. Math. Biol.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1862-2976",
+      "Title": "J. Math. Cryptol.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0304-4068",
+      "Title": "J. Math. Econom.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1422-6928",
+      "Title": "J. Math. Fluid Mech.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0023-608X",
+      "Title": "J. Math. Kyoto Univ.",
+      "Publisher": "Kyoto Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0219-0613",
+      "Title": "J. Math. Log.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0022-2488",
+      "Title": "J. Math. Phys.",
+      "Publisher": "Amer. Inst. Phys.",
+      "Start_Year": "1967"
+    },
+    {
+      "ISSN": "0021-7824",
+      "Title": "J. Math. Pures Appl. (9)",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0021-7824",
+      "Title": "J. Math. Pures Appl. (9)",
+      "Publisher": "Gauthier-Villars",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1072-3374",
+      "Title": "J. Math. Sci. (New York)",
+      "Publisher": "Kluwer Academic/Consultants Bureau",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1072-3374",
+      "Title": "J. Math. Sci. (N.Y.)",
+      "Publisher": "Springer",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1072-3374",
+      "Title": "J. Math. Sci. (N.Y.)",
+      "Publisher": "Kluwer Academic/Consultants Bureau",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1340-5705",
+      "Title": "J. Math. Sci. Univ. Tokyo",
+      "Publisher": "Univ. Tokyo",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5645",
+      "Title": "J. Math. Soc. Japan",
+      "Publisher": "Math. Soc. Japan",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1930-5311",
+      "Title": "J. Mod. Dyn.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0047-259X",
+      "Title": "J. Multivariate Anal.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1661-6952",
+      "Title": "J. Noncommut. Geom.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1345-4773",
+      "Title": "J. Nonlinear Convex Anal.",
+      "Publisher": "Yokohama Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1402-9251",
+      "Title": "J. Nonlinear Math. Phys.",
+      "Publisher": "J. Nonlinear Math. Phys.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1402-9251",
+      "Title": "J. Nonlinear Math. Phys.",
+      "Publisher": "Atlantis Press",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1402-9251",
+      "Title": "J. Nonlinear Math. Phys.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0938-8974",
+      "Title": "J. Nonlinear Sci.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1048-5252",
+      "Title": "J. Nonparametr. Stat.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1048-5252",
+      "Title": "J. Nonparametr. Statist.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0022-314X",
+      "Title": "J. Number Theory",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1570-2820",
+      "Title": "J. Numer. Math.",
+      "Publisher": "VSP",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1570-2820",
+      "Title": "J. Numer. Math.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0379-4024",
+      "Title": "J. Operator Theory",
+      "Publisher": "Theta Found.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0022-3239",
+      "Title": "J. Optim. Theory Appl.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1000-940X",
+      "Title": "J. Partial Differential Equations",
+      "Publisher": "Internat. Acad. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1000-940X",
+      "Title": "J. Partial Differ. Equ.",
+      "Publisher": "Glob. Sci. Pr.",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "1751-8113",
+      "Title": "J. Phys. A",
+      "Publisher": "Inst. Phys.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0305-4470",
+      "Title": "J. Phys. A",
+      "Publisher": "Inst. Phys.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0916-7005",
+      "Title": "Jpn. J. Ind. Appl. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0289-2316",
+      "Title": "Jpn. J. Math.",
+      "Publisher": "Springer Japan",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1662-9981",
+      "Title": "J. Pseudo-Differ. Oper. Appl.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0022-4049",
+      "Title": "J. Pure Appl. Algebra",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0970-1249",
+      "Title": "J. Ramanujan Math. Soc.",
+      "Publisher": "Ramanujan Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0075-4102",
+      "Title": "J. Reine Angew. Math.",
+      "Publisher": "De Gruyter",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1369-7412",
+      "Title": "J. R. Stat. Soc. Ser. B Stat. Methodol.",
+      "Publisher": "Roy. Statist. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1369-7412",
+      "Title": "J. R. Stat. Soc. Ser. B. Stat. Methodol.",
+      "Publisher": "Roy. Statist. Soc.",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "0885-7474",
+      "Title": "J. Sci. Comput.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1664-039X",
+      "Title": "J. Spectr. Theory",
+      "Publisher": "EMS Press",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0022-4715",
+      "Title": "J. Statist. Phys.",
+      "Publisher": "Kluwer/Plenum",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0022-4715",
+      "Title": "J. Stat. Phys.",
+      "Publisher": "Springer",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0022-4812",
+      "Title": "J. Symb. Log.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "0747-7171",
+      "Title": "J. Symbolic Comput.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0022-4812",
+      "Title": "J. Symbolic Logic",
+      "Publisher": "Assoc. Symbol. Logic",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1527-5256",
+      "Title": "J. Symplectic Geom.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0894-9840",
+      "Title": "J. Theoret. Probab.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1246-7405",
+      "Title": "J. Théor. Nombres Bordeaux",
+      "Publisher": "Univ. Bordeaux I",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1753-8416",
+      "Title": "J. Topol.",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1793-5253",
+      "Title": "J. Topol. Anal.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "1937-5093",
+      "Title": "Kinet. Relat. Models",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0289-9051",
+      "Title": "Kobe J. Math.",
+      "Publisher": "Kobe Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0386-5991",
+      "Title": "Kodai Math. J.",
+      "Publisher": "Tokyo Inst. Tech.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0920-3036",
+      "Title": "$K$K-Theory",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "2156-2261",
+      "Title": "Kyoto J. Math.",
+      "Publisher": "Duke Univ. Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1340-6116",
+      "Title": "Kyushu J. Math.",
+      "Publisher": "Kyushu Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0377-9017",
+      "Title": "Lett. Math. Phys.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0024-3795",
+      "Title": "Linear Algebra Appl.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "1983"
+    },
+    {
+      "ISSN": "0308-1087",
+      "Title": "Linear and Multilinear Algebra",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0308-1087",
+      "Title": "Linear Multilinear Algebra",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1863-3617",
+      "Title": "Log. Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0764-583X",
+      "Title": "M2AN Math. Model. Numer. Anal.",
+      "Publisher": "EDP Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-2611",
+      "Title": "Manuscripta Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1024-2953",
+      "Title": "Markov Process. Related Fields",
+      "Publisher": "Polymat",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5831",
+      "Title": "Math. Ann.",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0025-5564",
+      "Title": "Math. Biosci.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0862-7959",
+      "Title": "Math. Bohem.",
+      "Publisher": "Acad. Sci. Czech Repub. Inst. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5718",
+      "Title": "Math. Comp.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1960"
+    },
+    {
+      "ISSN": "2156-8472",
+      "Title": "Math. Control Relat. Fields",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0932-4194",
+      "Title": "Math. Control Signals Systems",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5793",
+      "Title": "Mathematika",
+      "Publisher": "Univ. London",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5793",
+      "Title": "Mathematika",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0960-1627",
+      "Title": "Math. Finance",
+      "Publisher": "Wiley-Blackwell",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0960-1627",
+      "Title": "Math. Finance",
+      "Publisher": "Blackwell",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1331-4343",
+      "Title": "Math. Inequal. Appl.",
+      "Publisher": "ELEMENT",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1081-2865",
+      "Title": "Math. Mech. Solids",
+      "Publisher": "Sage",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0170-4214",
+      "Title": "Math. Methods Appl. Sci.",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0170-4214",
+      "Title": "Math. Methods Appl. Sci.",
+      "Publisher": "Wiley-Blackwell",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1432-2994",
+      "Title": "Math. Methods Oper. Res.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1392-6292",
+      "Title": "Math. Model. Anal.",
+      "Publisher": "Technika",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1392-6292",
+      "Title": "Math. Model. Anal.",
+      "Publisher": "Vilnius Gedim. Tech. Univ.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0973-5348",
+      "Title": "Math. Model. Nat. Phenom.",
+      "Publisher": "Res. India Publ.",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0973-5348",
+      "Title": "Math. Model. Nat. Phenom.",
+      "Publisher": "EDP Sci.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0218-2025",
+      "Title": "Math. Models Methods Appl. Sci.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-584X",
+      "Title": "Math. Nachr.",
+      "Publisher": "Wiley-VCH Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0001-4346",
+      "Title": "Math. Notes",
+      "Publisher": "Pleiades Publishing, Ltd.",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "0001-4346",
+      "Title": "Math. Notes",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0364-765X",
+      "Title": "Math. Oper. Res.",
+      "Publisher": "INFORMS",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1385-0172",
+      "Title": "Math. Phys. Anal. Geom.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1086-6655",
+      "Title": "Math. Phys. Electron. J.",
+      "Publisher": "Univ. Barcelona, Dep. Mat. Apl. Anal.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0305-0041",
+      "Title": "Math. Proc. Cambridge Philos. Soc.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1393-7197",
+      "Title": "Math. Proc. R. Ir. Acad.",
+      "Publisher": "Roy. Irish Acad.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5610",
+      "Title": "Math. Program.",
+      "Publisher": "Springer",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0025-5610",
+      "Title": "Math. Program.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1073-2780",
+      "Title": "Math. Res. Lett.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1073-2780",
+      "Title": "Math. Res. Lett.",
+      "Publisher": "Int. Press",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0025-5521",
+      "Title": "Math. Scand.",
+      "Publisher": "Aarhus Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0139-9918",
+      "Title": "Math. Slovaca",
+      "Publisher": "De Gruyter",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "0139-9918",
+      "Title": "Math. Slovaca",
+      "Publisher": "Slovak Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0139-9918",
+      "Title": "Math. Slovaca",
+      "Publisher": "Versita",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0165-4896",
+      "Title": "Math. Social Sci.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0960-1295",
+      "Title": "Math. Structures Comput. Sci.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0025-5874",
+      "Title": "Math. Z.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1660-5446",
+      "Title": "Mediterr. J. Math.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0065-9266",
+      "Title": "Mem. Amer. Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1980"
+    },
+    {
+      "ISSN": "0249-633X",
+      "Title": "Mém. Soc. Math. Fr. (N.S.)",
+      "Publisher": "Soc. Math. France",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1073-2772",
+      "Title": "Methods Appl. Anal.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1029-3531",
+      "Title": "Methods Funct. Anal. Topology",
+      "Publisher": "TBiMC Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0026-2285",
+      "Title": "Michigan Math. J.",
+      "Publisher": "Univ. Michigan",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "1424-9286",
+      "Title": "Milan J. Math.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "2199-1413",
+      "Title": "Minimax Theory Appl.",
+      "Publisher": "Heldermann",
+      "Start_Year": "2016"
+    },
+    {
+      "ISSN": "0942-5616",
+      "Title": "MLQ Math. Log. Q.",
+      "Publisher": "Wiley-VCH Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0026-9255",
+      "Title": "Monatsh. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2220-5438",
+      "Title": "Mosc. J. Comb. Number Theory",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1609-3321",
+      "Title": "Mosc. Math. J.",
+      "Publisher": "Indep. Univ. Mosc.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1540-3459",
+      "Title": "Multiscale Model. Simul.",
+      "Publisher": "SIAM",
+      "Start_Year": "2003"
+    },
+    {
+      "ISSN": "1867-5778",
+      "Title": "Münster J. Math.",
+      "Publisher": "Univ. Münster, Math. Inst.",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0027-7630",
+      "Title": "Nagoya Math. J.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0027-7630",
+      "Title": "Nagoya Math. J.",
+      "Publisher": "Nagoya Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1556-1801",
+      "Title": "Netw. Heterog. Media",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1171-6096",
+      "Title": "New Zealand J. Math.",
+      "Publisher": "Univ. Auckland",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1021-9722",
+      "Title": "NoDEA Nonlinear Differential Equations Appl.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0362-546X",
+      "Title": "Nonlinear Anal.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1751-570X",
+      "Title": "Nonlinear Anal. Hybrid Syst.",
+      "Publisher": "Elsevier",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1468-1218",
+      "Title": "Nonlinear Anal. Real World Appl.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0951-7715",
+      "Title": "Nonlinearity",
+      "Publisher": "Inst. Phys.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0002-9920",
+      "Title": "Notices Amer. Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0029-4527",
+      "Title": "Notre Dame J. Formal Logic",
+      "Publisher": "Univ. Notre Dame",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0029-4527",
+      "Title": "Notre Dame J. Form. Log.",
+      "Publisher": "Duke Univ. Press",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "2155-3289",
+      "Title": "Numer. Algebra Control Optim.",
+      "Publisher": "Am. Inst. Math. Sci. (AIMS)",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1017-1398",
+      "Title": "Numer. Algorithms",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1017-1398",
+      "Title": "Numer. Algorithms",
+      "Publisher": "Baltzer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0163-0563",
+      "Title": "Numer. Funct. Anal. Optim.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1070-5325",
+      "Title": "Numer. Linear Algebra Appl.",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0029-599X",
+      "Title": "Numer. Math.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1004-8979",
+      "Title": "Numer. Math. Theory Methods Appl.",
+      "Publisher": "Glob. Sci. Pr.",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0749-159X",
+      "Title": "Numer. Methods Partial Differential Equations",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1846-3886",
+      "Title": "Oper. Matrices",
+      "Publisher": "ELEMENT",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0030-364X",
+      "Title": "Oper. Res.",
+      "Publisher": "INFORMS",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0233-1934",
+      "Title": "Optimization",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0233-1934",
+      "Title": "Optimization",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1862-4472",
+      "Title": "Optim. Lett.",
+      "Publisher": "Springer",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "1055-6788",
+      "Title": "Optim. Methods Softw.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1232-9274",
+      "Title": "Opuscula Math.",
+      "Publisher": "Wydawnictwa AGH",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0167-8094",
+      "Title": "Order",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0030-6126",
+      "Title": "Osaka J. Math.",
+      "Publisher": "Osaka Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0030-8730",
+      "Title": "Pacific J. Math.",
+      "Publisher": "Math. Sci. Publ.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1348-9151",
+      "Title": "Pac. J. Optim.",
+      "Publisher": "Yokohama Publ.",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0031-5303",
+      "Title": "Period. Math. Hungar.",
+      "Publisher": "Akad. Kiadó",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0167-2789",
+      "Title": "Phys. D",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0370-1573",
+      "Title": "Phys. Rep.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0032-5155",
+      "Title": "Port. Math.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0032-5155",
+      "Title": "Port. Math. (N.S.)",
+      "Publisher": "Portuguese Math. Soc.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0032-5155",
+      "Title": "Portugal. Math.",
+      "Publisher": "Portuguese Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1385-1292",
+      "Title": "Positivity",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1385-1292",
+      "Title": "Positivity",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0926-2601",
+      "Title": "Potential Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0208-4147",
+      "Title": "Probab. Math. Statist.",
+      "Publisher": "Wydawn. Uniw. Wrocław.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0178-8051",
+      "Title": "Probab. Theory Related Fields",
+      "Publisher": "Springer",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1364-5021",
+      "Title": "Proc. A.",
+      "Publisher": "Roy. Soc. London",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "0002-9939",
+      "Title": "Proc. Amer. Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1950"
+    },
+    {
+      "ISSN": "0013-0915",
+      "Title": "Proc. Edinb. Math. Soc. (2)",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0013-0915",
+      "Title": "Proc. Edinburgh Math. Soc. (2)",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0253-4142",
+      "Title": "Proc. Indian Acad. Sci. Math. Sci.",
+      "Publisher": "Indian Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0386-2194",
+      "Title": "Proc. Japan Acad. Ser. A Math. Sci.",
+      "Publisher": "Japan Acad.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0024-6115",
+      "Title": "Proc. Lond. Math. Soc. (3)",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0024-6115",
+      "Title": "Proc. London Math. Soc. (3)",
+      "Publisher": "London Math. Soc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0027-8424",
+      "Title": "Proc. Natl. Acad. Sci. USA",
+      "Publisher": "Nat. Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0308-2105",
+      "Title": "Proc. Roy. Soc. Edinburgh Sect. A",
+      "Publisher": "Royal Soc. Edinburgh",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1364-5021",
+      "Title": "Proc. R. Soc. Lond. Ser. A Math. Phys. Eng. Sci.",
+      "Publisher": "Roy. Soc. London",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "0081-5438",
+      "Title": "Proc. Steklov Inst. Math.",
+      "Publisher": "MAIK Nauka/Interperiod. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0350-1302",
+      "Title": "Publ. Inst. Math. (Beograd) (N.S.)",
+      "Publisher": "Institut Mathématique",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0214-1493",
+      "Title": "Publ. Mat.",
+      "Publisher": "Univ. Autònoma Barcelona",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0033-3883",
+      "Title": "Publ. Math. Debrecen",
+      "Publisher": "Inst. Math. Univ. Debrecen",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0073-8301",
+      "Title": "Publ. Math. Inst. Hautes Études Sci.",
+      "Publisher": "Springer",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0034-5318",
+      "Title": "Publ. Res. Inst. Math. Sci.",
+      "Publisher": "Kyoto Univ.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0034-5318",
+      "Title": "Publ. Res. Inst. Math. Sci.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "2189-3756",
+      "Title": "Pure Appl. Funct. Anal.",
+      "Publisher": "Yokohama Publ.",
+      "Start_Year": "2016"
+    },
+    {
+      "ISSN": "1558-8599",
+      "Title": "Pure Appl. Math. Q.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0033-5606",
+      "Title": "Q. J. Math.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1549-6724",
+      "Title": "Q. J. Pure Appl. Math.",
+      "Publisher": "Int. Press",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1607-3606",
+      "Title": "Quaest. Math.",
+      "Publisher": "NISC",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1575-5460",
+      "Title": "Qual. Theory Dyn. Syst.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1575-5460",
+      "Title": "Qual. Theory Dyn. Syst.",
+      "Publisher": "Univ. Lleida",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1469-7688",
+      "Title": "Quant. Finance",
+      "Publisher": "Routledge Journals, Taylor & Francis, Ltd.",
+      "Start_Year": "2004"
+    },
+    {
+      "ISSN": "1663-487X",
+      "Title": "Quantum Topol.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0033-569X",
+      "Title": "Quart. Appl. Math.",
+      "Publisher": "Brown Univ., Div. Appl. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0033-5614",
+      "Title": "Quart. J. Mech. Appl. Math.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0918-4732",
+      "Title": "Questions Answers Gen. Topology",
+      "Publisher": "Sympos. Gen. Topology",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1578-7303",
+      "Title": "RACSAM. Rev. R. Acad. Cienc. Exactas Fís. Nat. Ser. A Mat.",
+      "Publisher": "Real Acad. Cienc. Exact. Fís. Natur.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "1382-4090",
+      "Title": "Ramanujan J.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2010-3263",
+      "Title": "Random Matrices Theory Appl.",
+      "Publisher": "World Sci. Publishing",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "1042-9832",
+      "Title": "Random Structures Algorithms",
+      "Publisher": "Wiley",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0147-1937",
+      "Title": "Real Anal. Exchange",
+      "Publisher": "Michigan State Univ. Press",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1560-3547",
+      "Title": "Regul. Chaotic Dyn.",
+      "Publisher": "Russ. Acad. Sci., Dept. Math.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1560-3547",
+      "Title": "Regul. Chaotic Dyn.",
+      "Publisher": "MAIK Nauka/Interperiod. Publ.",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0009-725X",
+      "Title": "Rend. Circ. Mat. Palermo (2)",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1120-7183",
+      "Title": "Rend. Mat. Appl. (7)",
+      "Publisher": "Univ. Studi Roma \"La Sapienza''",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0041-8994",
+      "Title": "Rend. Semin. Mat. Univ. Padova",
+      "Publisher": "EMS Press",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0041-8994",
+      "Title": "Rend. Semin. Mat. Univ. Padova",
+      "Publisher": "Libreria Internazionale Cortina",
+      "Start_Year": "2007"
+    },
+    {
+      "ISSN": "0041-8994",
+      "Title": "Rend. Sem. Mat. Univ. Padova",
+      "Publisher": "CEDAM",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0034-4877",
+      "Title": "Rep. Math. Phys.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2012"
+    },
+    {
+      "ISSN": "0034-4877",
+      "Title": "Rep. Math. Phys.",
+      "Publisher": "Pergamon",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2522-0144",
+      "Title": "Res. Math. Sci.",
+      "Publisher": "Springer",
+      "Start_Year": "2014"
+    },
+    {
+      "ISSN": "2522-0160",
+      "Title": "Res. Number Theory",
+      "Publisher": "Springer",
+      "Start_Year": "2015"
+    },
+    {
+      "ISSN": "1422-6383",
+      "Title": "Results Math.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "0034-6527",
+      "Title": "Rev. Econom. Stud.",
+      "Publisher": "Rev. Econom. Stud.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0034-6527",
+      "Title": "Rev. Econ. Stud.",
+      "Publisher": "Oxford Univ. Press",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1139-1138",
+      "Title": "Rev. Mat. Complut.",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1139-1138",
+      "Title": "Rev. Mat. Complut.",
+      "Publisher": "Serv. Publ. Univ. Complutense Madrid",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0129-055X",
+      "Title": "Rev. Math. Phys.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0213-2230",
+      "Title": "Rev. Mat. Iberoam.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0213-2230",
+      "Title": "Rev. Mat. Iberoamericana",
+      "Publisher": "Rev. Mat. Iberoamericana",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0034-6861",
+      "Title": "Rev. Modern Phys.",
+      "Publisher": "Amer. Phys. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1578-7303",
+      "Title": "Rev. R. Acad. Cienc. Exactas Fís. Nat. Ser. A Mat. RACSAM",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "1755-0203",
+      "Title": "Rev. Symb. Log.",
+      "Publisher": "Cambridge Univ. Press",
+      "Start_Year": "2008"
+    },
+    {
+      "ISSN": "0041-6932",
+      "Title": "Rev. Un. Mat. Argentina",
+      "Publisher": "Unión Mat. Argentina",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0035-5038",
+      "Title": "Ricerche Mat.",
+      "Publisher": "Univ. Studi Napoli",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0035-5038",
+      "Title": "Ric. Mat.",
+      "Publisher": "Springer Italia",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0035-6298",
+      "Title": "Riv. Math. Univ. Parma (N.S.)",
+      "Publisher": "Univ. Parma",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0035-6298",
+      "Title": "Riv. Mat. Univ. Parma (6)",
+      "Publisher": "Univ. Parma",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0035-6298",
+      "Title": "Riv. Mat. Univ. Parma (7)",
+      "Publisher": "Univ. Parma",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0035-6298",
+      "Title": "Riv. Mat. Univ. Parma (8)",
+      "Publisher": "Univ. Parma",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0035-7596",
+      "Title": "Rocky Mountain J. Math.",
+      "Publisher": "Rocky Mountain Math. Consortium",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1066-369X",
+      "Title": "Russian Math. (Iz. VUZ)",
+      "Publisher": "Allerton Press",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0036-0279",
+      "Title": "Russian Math. Surveys",
+      "Publisher": "Russ. Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1061-9208",
+      "Title": "Russ. J. Math. Phys.",
+      "Publisher": "MAIK Nauka/Interperiod. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1064-5616",
+      "Title": "Sb. Math.",
+      "Publisher": "Russ. Acad. Sci.",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0303-6898",
+      "Title": "Scand. J. Stat.",
+      "Publisher": "Wiley-Blackwell",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0303-6898",
+      "Title": "Scand. J. Statist.",
+      "Publisher": "Blackwell Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1674-7283",
+      "Title": "Sci. China Math.",
+      "Publisher": "Sci. China Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1022-1824",
+      "Title": "Selecta Math. (N.S.)",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0037-1912",
+      "Title": "Semigroup Forum",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1310-6600",
+      "Title": "Serdica Math. J.",
+      "Publisher": "Bulgarian Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0927-6947",
+      "Title": "Set-Valued Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1877-0533",
+      "Title": "Set-Valued Var. Anal.",
+      "Publisher": "Springer",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0036-1399",
+      "Title": "SIAM J. Appl. Math.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0036-1399",
+      "Title": "SIAM J. Appl. Math.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0097-5397",
+      "Title": "SIAM J. Comput.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0097-5397",
+      "Title": "SIAM J. Comput.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0363-0129",
+      "Title": "SIAM J. Control Optim.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0363-0129",
+      "Title": "SIAM J. Control Optim.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0895-4801",
+      "Title": "SIAM J. Discrete Math.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0895-4801",
+      "Title": "SIAM J. Discrete Math.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0036-1410",
+      "Title": "SIAM J. Math. Anal.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0036-1410",
+      "Title": "SIAM J. Math. Anal.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0895-4798",
+      "Title": "SIAM J. Matrix Anal. Appl.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0895-4798",
+      "Title": "SIAM J. Matrix Anal. Appl.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0036-1429",
+      "Title": "SIAM J. Numer. Anal.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0036-1429",
+      "Title": "SIAM J. Numer. Anal.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1052-6234",
+      "Title": "SIAM J. Optim.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "1052-6234",
+      "Title": "SIAM J. Optim.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1064-8275",
+      "Title": "SIAM J. Sci. Comput.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0036-1445",
+      "Title": "SIAM Rev.",
+      "Publisher": "SIAM",
+      "Start_Year": "1998"
+    },
+    {
+      "ISSN": "0036-1445",
+      "Title": "SIAM Rev.",
+      "Publisher": "SIAM",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "1055-1344",
+      "Title": "Siberian Adv. Math.",
+      "Publisher": "Allerton Press",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0037-4466",
+      "Title": "Siberian Math. J.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0037-4466",
+      "Title": "Sib. Math. J.",
+      "Publisher": "Pleiades Publishing, Ltd.",
+      "Start_Year": "2021"
+    },
+    {
+      "ISSN": "0176-1714",
+      "Title": "Soc. Choice Welf.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1387-0874",
+      "Title": "Stat. Inference Stoch. Process.",
+      "Publisher": "Springer",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1387-0874",
+      "Title": "Stat. Inference Stoch. Process.",
+      "Publisher": "Kluwer Acad. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0233-1888",
+      "Title": "Statistics",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0233-1888",
+      "Title": "Statistics",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "0167-7152",
+      "Title": "Statist. Probab. Lett.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1017-0405",
+      "Title": "Statist. Sinica",
+      "Publisher": "Statist. Sinica",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0736-2994",
+      "Title": "Stoch. Anal. Appl.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "0736-2994",
+      "Title": "Stochastic Anal. Appl.",
+      "Publisher": "Dekker",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0304-4149",
+      "Title": "Stochastic Process. Appl.",
+      "Publisher": "Elsevier Ltd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1744-2508",
+      "Title": "Stochastics",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2005"
+    },
+    {
+      "ISSN": "1045-1129",
+      "Title": "Stochastics Stochastics Rep.",
+      "Publisher": "Gordon and Breach",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0219-4937",
+      "Title": "Stoch. Dyn.",
+      "Publisher": "World Sci. Publ.",
+      "Start_Year": "2001"
+    },
+    {
+      "ISSN": "2194-0401",
+      "Title": "Stoch. Partial Differ. Equ. Anal. Comput.",
+      "Publisher": "Springer",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "1045-1129",
+      "Title": "Stoch. Stoch. Rep.",
+      "Publisher": "Taylor & Francis",
+      "Start_Year": "2002"
+    },
+    {
+      "ISSN": "1061-0022",
+      "Title": "St. Petersburg Math. J.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2022"
+    },
+    {
+      "ISSN": "0022-2526",
+      "Title": "Stud. Appl. Math.",
+      "Publisher": "Wiley-Blackwell",
+      "Start_Year": "2009"
+    },
+    {
+      "ISSN": "0022-2526",
+      "Title": "Stud. Appl. Math.",
+      "Publisher": "Blackwell",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0039-3215",
+      "Title": "Studia Logica",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0039-3223",
+      "Title": "Studia Math.",
+      "Publisher": "Inst. Math., Polish Acad. Sci.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0081-6906",
+      "Title": "Studia Sci. Math. Hungar.",
+      "Publisher": "Akad. Kiadó",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0898-9583",
+      "Title": "Sugaku Expositions",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0167-6911",
+      "Title": "Systems Control Lett.",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1027-5487",
+      "Title": "Taiwanese J. Math.",
+      "Publisher": "Math. Soc. Repub. China (Taiwan)",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1933-6837",
+      "Title": "Theor. Econ.",
+      "Publisher": "Econometric Soc.",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "0304-3975",
+      "Title": "Theoret. Comput. Sci.",
+      "Publisher": "Elsevier B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1432-4350",
+      "Title": "Theory Comput. Syst.",
+      "Publisher": "Springer",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0040-585X",
+      "Title": "Theory Probab. Appl.",
+      "Publisher": "SIAM",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0321-3900",
+      "Title": "Theory Stoch. Process.",
+      "Publisher": "TBiMC Sci. Publ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0040-8735",
+      "Title": "Tohoku Math. J. (2)",
+      "Publisher": "Tohoku Univ.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0387-3870",
+      "Title": "Tokyo J. Math.",
+      "Publisher": "Kinokuniya",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0387-3870",
+      "Title": "Tokyo J. Math.",
+      "Publisher": "Tokyo J. Math., Publ. Comm.",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1230-3429",
+      "Title": "Topol. Methods Nonlinear Anal.",
+      "Publisher": "Juliusz Schauder Cent. Nonlinear Stud.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0040-9383",
+      "Title": "Topology",
+      "Publisher": "Elsevier, Inc.",
+      "Start_Year": "1997"
+    },
+    {
+      "ISSN": "0166-8641",
+      "Title": "Topology Appl.",
+      "Publisher": "Elsevier Sci. B. V.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0146-4124",
+      "Title": "Topology Proc.",
+      "Publisher": "Topol. Proc.",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0002-9947",
+      "Title": "Trans. Amer. Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "1900"
+    },
+    {
+      "ISSN": "1083-4362",
+      "Title": "Transform. Groups",
+      "Publisher": "Birkhäuser Boston",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0077-1554",
+      "Title": "Trans. Moscow Math. Soc.",
+      "Publisher": "Amer. Math. Soc.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "0387-4982",
+      "Title": "Tsukuba J. Math.",
+      "Publisher": "Univ. Tsukuba",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1300-0098",
+      "Title": "Turkish J. Math.",
+      "Publisher": "Sci. Tech. Res. Council Turkey",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0041-5995",
+      "Title": "Ukrainian Math. J.",
+      "Publisher": "Springer",
+      "Start_Year": "2010"
+    },
+    {
+      "ISSN": "1336-913X",
+      "Title": "Unif. Distrib. Theory",
+      "Publisher": "BOKU. Univ. Nat. Resour. Life Sci.",
+      "Start_Year": "2011"
+    },
+    {
+      "ISSN": "1336-913X",
+      "Title": "Unif. Distrib. Theory",
+      "Publisher": "Slovak Acad. Sci.",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0353-8893",
+      "Title": "Univ. Beograd. Publ. Elektrotehn. Fak. Ser. Mat.",
+      "Publisher": "Univ. Beograd",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0866-7179",
+      "Title": "Vietnam J. Math.",
+      "Publisher": "Springer Hong Kong",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "2305-221X",
+      "Title": "Vietnam J. Math.",
+      "Publisher": "Springer Singapore",
+      "Start_Year": "2013"
+    },
+    {
+      "ISSN": "0866-7179",
+      "Title": "Vietnam J. Math.",
+      "Publisher": "Vietnam. Acad. Sci. Technol., Inst. Math.",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "1822-511X",
+      "Title": "Šiauliai Math. Semin.",
+      "Publisher": "Šiauliai Univ. Publ. House",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0165-2125",
+      "Title": "Wave Motion",
+      "Publisher": "Elsevier",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0044-2267",
+      "Title": "ZAMM Z. Angew. Math. Mech.",
+      "Publisher": "Wiley-VCH Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0232-2064",
+      "Title": "Z. Anal. Anwend.",
+      "Publisher": "EMS Press",
+      "Start_Year": "2006"
+    },
+    {
+      "ISSN": "0232-2064",
+      "Title": "Z. Anal. Anwendungen",
+      "Publisher": "Heldermann",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "0044-2275",
+      "Title": "Z. Angew. Math. Phys.",
+      "Publisher": "Birkhäuser Verlag",
+      "Start_Year": "2000"
+    },
+    {
+      "ISSN": "1812-9471",
+      "Title": "Zh. Mat. Fiz. Anal. Geom.",
+      "Publisher": "Akad. Nauk Ukrainy, Fiz.-Tekh. Inst. Nizk. Temp. im. B. I. Verkina",
+      "Start_Year": "2013"
+    }
+]

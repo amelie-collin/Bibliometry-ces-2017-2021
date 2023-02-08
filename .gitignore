@@ -9,3 +9,12 @@
 # Exports folders
 **/exports/*
 !**/exports/.gitkeep
+
+# Avoid archives
+**/*.zip
+
+# Avoid libreoffice lock file
+**/.~lock.*
+
+# Avoid pattern .ignored.*
+**/*.ignored.*
