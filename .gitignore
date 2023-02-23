@@ -8,6 +8,7 @@
 
 # Exports folders
 **/exports/*
+**/*.exports/*
 !**/exports/.gitkeep
 
 # Avoid archives
